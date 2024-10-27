@@ -1,1 +1,2 @@
 # Calories-Burnt-Predictor
+This project is a **Calorie Burn Prediction Model** developed using machine learning techniques. It utilizes the **XGBoost algorithm** to predict the number of calories burned based on features like age, weight, height, gender, exercise duration, heart rate, and body temperature. The model is trained on an exercise dataset, and the final model is saved using **Pickle** for easy deployment. The project includes data visualization for analysis and achieves accurate predictions, making it a helpful tool for personalized fitness tracking.
